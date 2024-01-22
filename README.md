@@ -1,0 +1,1 @@
+# designPatternsSingleton-Static1
